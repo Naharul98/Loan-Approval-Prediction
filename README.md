@@ -4,6 +4,13 @@ This project aims to build a classification model for predicting whether a loan 
 ## Project Demo
 > [Jupyter Notebook Demo](https://nbviewer.jupyter.org/github/Naharul98/Loan-Approval-Prediction/blob/main/Loan-Application-Outcome-Prediction.ipynb)
 
+## Key Project Elements
++ Data cleaning and visualization
++ Label encoding
++ Feature Engineering and Importance Analysis using
+  + K-Best features
+  + Extremely Randomized Trees Classifier
+
 ## Libraries Used
 + Sklearn
 + Pandas
