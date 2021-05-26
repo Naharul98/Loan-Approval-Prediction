@@ -19,7 +19,9 @@ This project aims to build a classification model for predicting whether a loan 
 
 ## Screenshots
 
-
+![Example Comparision ScreenShot1](https://github.com/Naharul98/Loan-Approval-Prediction/blob/main/Screenshots/screenshot2.jpg?raw=true)
+![Example Comparision ScreenShot2](https://github.com/Naharul98/Loan-Approval-Prediction/blob/main/Screenshots/screenshot3.jpg?raw=true)
+![Example Comparision ScreenShot3](https://github.com/Naharul98/Loan-Approval-Prediction/blob/main/Screenshots/screenshot.jpg?raw=true)
 
 ## Libraries Used
 + Sklearn
