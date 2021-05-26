@@ -10,6 +10,16 @@ This project aims to build a classification model for predicting whether a loan 
 + Feature Engineering and Importance Analysis using
   + K-Best features
   + Extremely Randomized Trees Classifier
+  + Mutual information
++ Build classifier model using 
+  + C-Support Vector Classification.
+  + K nearest neighbour
+  + Max-Ent classifier
++ Evaluate accuracy of model using cross validation.
+
+## Screenshots
+
+
 
 ## Libraries Used
 + Sklearn
